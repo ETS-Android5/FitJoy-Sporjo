@@ -1,7 +1,7 @@
 # FitJoy-Sporjo #
-https://github.com/devAyushDubey/VRYoga
-https://github.com/devAyushDubey/ARWalking
-https://github.com/soumenkp2/FitJoy_MachineLearning
+1. https://github.com/devAyushDubey/VRYoga
+2. https://github.com/devAyushDubey/ARWalking
+3. https://github.com/soumenkp2/FitJoy_MachineLearning
 
 # Instruction #
 As our project is still in developed phase, hence we are providing instructions to access various modules of ours. Note - In final project all these modules will be integrated in a single android app.
